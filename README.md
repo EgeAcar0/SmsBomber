@@ -19,4 +19,4 @@ python3 smsbomber.py
 <h2>Discord</h2>
 
 
-Discord: https://discord.gg/m7wAfPgeNx
+Discord: https://discord.gg/CdDK83rkVB
