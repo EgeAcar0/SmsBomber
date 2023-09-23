@@ -1,6 +1,6 @@
 # SmsBomber for Turkiye
 
-[![Hits](https://hits.sh/github.com/yildirimlord/SmsBomber.svg?label=views&color=007ec6)](https://hits.sh/github.com/yildirimlord/SmsBomber/)
+[![Hits](https://hits.sh/github.com/EgeAcar0/SmsBomber.svg?label=views&color=007ec6)](https://hits.sh/github.com/EgeAcar0/SmsBomber/)
 
 <img src=https://user-images.githubusercontent.com/51286195/209442235-7069b8e7-b3f3-4b70-82cb-a86014836be0.png height="200px" width="400px"/>
 
