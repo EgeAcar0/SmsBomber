@@ -197,7 +197,7 @@ while True:
     system("cls||clear")
     print(Fore.LIGHTYELLOW_EX + "İletişim bilgileri:\n\n" +
           Fore.LIGHTGREEN_EX +
-          "Discord: yildirimlord | https://discord.gg/CdDK83rkVB\n" +
+          "Discord: EgoezPanel | https://discord.gg/CdDK83rkVB\n" +
           Fore.LIGHTGREEN_EX + "Telegram: https://t.me/egoez1\n")
 
     print(Fore.LIGHTGREEN_EX + "{/} " + Style.RESET_ALL + "Made by " +
